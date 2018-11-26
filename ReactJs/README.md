@@ -4,6 +4,6 @@ The curriculum is mentioned below. And you will be able to find the details in t
 
 <ul>
     <li><a href="https://github.com/vjnvisakh/Projects/tree/What-is-ReactJs/ReactJs">What is ReactJs</a></li>
-    <li>History of ReactJs</li>
+    <li><a href="https://github.com/vjnvisakh/Projects/tree/History-of-React-Js/ReactJs">History of ReactJs</a></li>
     <li>What is a Virtual DOM</li>
 </ul>

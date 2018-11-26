@@ -1,9 +1,3 @@
-# Projects
+<h2>History of React</h2>
 
-The curriculum is mentioned below. And you will be able to find the details in the respective branches.
-
-<ul>
-    <li><a href="https://github.com/vjnvisakh/Projects/tree/What-is-ReactJs/ReactJs">What is ReactJs</a></li>
-    <li>History of ReactJs</li>
-    <li>What is a Virtual DOM</li>
-</ul>
+React was developed by Jordan Walke, a software Engineer at Facebook. He was inspired by XHP, which is an HTML component framework for PHP.

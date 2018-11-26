@@ -1,9 +1,4 @@
-# Projects
+<h2>What is ReactJs</h2>
 
-The curriculum is mentioned below. And you will be able to find the details in the respective branches.
-
-<ul>
-    <li>What is ReactJs</li>
-    <li>History of ReactJs</li>
-    <li>What is a Virtual DOM</li>
-</ul>
+ReactJs is a <b>Javascript library</b> that is concerned with making user interfaces.
+React makes it easy to make <b>Components</b> which are nothing but reusable html blocks.
